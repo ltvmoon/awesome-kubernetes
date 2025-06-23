@@ -26,10 +26,15 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ## 📘 Documentation
 - [Kubernetes Security Guide (Sysdig, 2021)](<Documentation/Kubernetes Security Guide (Sysdig, 2021).pdf>)
+- [Configure RBAC on Production Ready EKS Cluster (Aman Pathak, 2024)](<Documentation/Configure RBAC on Production Ready EKS Cluster (Aman Pathak, 2024).pdf>)
+- [Kubernetes From Pod to Prod (Aman Pathak, 2025)](<Documentation/Kubernetes From Pod to Prod (Aman Pathak, 2025).pdf>)
+- [A Complete Guide to Deploying and Managing Microservices on Kubernetes (DevOps Shack, 2025)](<Documentation/A Complete Guide to Deploying and Managing Microservices on Kubernetes (DevOps Shack, 2025).pdf>)
 
 ## ❓ Interview Questions and Answers
+- [Kubernetes Interview Questions and Answers (Busam Rajesh Vardhan, 2021)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Busam Rajesh Vardhan, 2021).pdf>)
 - [Kubernetes Interview Questions (WebMagic Informatica, 2022)](<Interview Questions and Answers/Kubernetes Interview Questions (WebMagic Informatica, 2022).pdf>)
 - [Kubernetes Interview Questions and Answers (DevOps Shack, 2024)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (DevOps Shack, 2024).pdf>)
+- [Kubernetes Interview Questions (Sahil PatilSahil Patil, 2024)](<Interview Questions and Answers/Kubernetes Interview Questions (Sahil PatilSahil Patil, 2024).pdf>)
 - [Kubernetes Interview Questions (Akhilesh Dhoke, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (Akhilesh Dhoke, 2025).pdf>)
 - [Kubernetes Interview Questions (InterviewBit, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (InterviewBit, 2025).pdf>)
 - [Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025).pdf>)
@@ -37,7 +42,9 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ## 🛠️ Troubleshooting Guides
 - [50 Kubernetes Errors & Solutions (DevOps Shack, 2025)](<Troubleshooting Guides/50 Kubernetes Errors & Solutions (DevOps Shack, 2025).pdf>)
+- [Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024).pdf>)
 - [Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025).pdf>)
+- [Kubernetes Troubleshooting Guides (Swapna Adhav, 2025)](<Troubleshooting Guides/Kubernetes Troubleshooting Guides (Swapna Adhav, 2025).pdf>)
 
 ## 📚 Exam Prep
 - [Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024)](<Exam Prep/Certified Kubernetes Administrator (CKA) Sample Curriculum Path (2024).pdf>)

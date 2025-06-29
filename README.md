@@ -6,6 +6,7 @@ Welcome to **Awesome Kubernetes eBooks**! This repository offers a curated colle
 - Documentation
 - Interview Questions and Answers
 - Troubleshooting Guides
+- Tools
 - Exam Prep
 - Research Papers
 - Theses
@@ -15,11 +16,13 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ---
 ## 🎞️ Slides
-- [Introduction to Kubernetes (Vikram, 2023)](<Slides/Introduction to Kubernetes (Vikram, 2023).pdf>)
+- [Kubernetes HPA Mastery (Salwan Mohamed, 2025)](<Slides/Kubernetes HPA Mastery (Salwan Mohamed, 2025).pdf>)
+- [Mastering Kubernetes Taints and Tolerations (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes Taints and Tolerations (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025).pdf>)
 - [Master Kubernetes Networking (Mohana Srinivasan, 2025)](<Slides/Master Kubernetes Networking (Mohana Srinivasan, 2025).pdf>)
 - [Master Guide for Production-Ready Applications (Salwan Mohamed, 2025)](<Slides/Master Guide for Production-Ready Applications (Salwan Mohamed, 2025).pdf>)
+- [Introduction to Kubernetes (Vikram, 2023)](<Slides/Introduction to Kubernetes (Vikram, 2023).pdf>)
 - [An Overview of Kubernetes Scheduling (Hailiang Zhao, 2022)](<Slides/An Overview of Kubernetes Scheduling (Hailiang Zhao, 2022).pdf>)
 - [Containers and Kubernetes Security (Matt Colman, 2021)](<Slides/Containers and Kubernetes Security (Matt Colman, 2021).pdf>)
 - [Kubernetes Overview (Anis Salhi, 2018)](<Slides/Kubernetes Overview (Anis Salhi, 2018).pdf>)
@@ -46,6 +49,10 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Kubernetes Troubleshooting Guides (Swapna Adhav, 2025)](<Troubleshooting Guides/Kubernetes Troubleshooting Guides (Swapna Adhav, 2025).pdf>)
 - [Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025).pdf>)
 - [Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024).pdf>)
+
+## ⚙️ Tools
+- Helm
+  - [DevOps Helm Charts (Ping Identity, 2025)](<Tools/DevOps Helm Charts (Ping Identity, 2025).pdf>)
 
 ## 📚 Exam Prep
 - [Certified Kubernetes Administrator (CKA) Exam Curriculum (2025)](<Exam Prep/Certified Kubernetes Administrator (CKA) Exam Curriculum (2025).pdf>)

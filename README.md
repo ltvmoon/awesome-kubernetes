@@ -16,8 +16,10 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ---
 ## 🎞️ Slides
+- [Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025).pdf>)
+- [Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025)](<Slides/Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025).pdf>)
 - [Kubernetes HPA Mastery (Salwan Mohamed, 2025)](<Slides/Kubernetes HPA Mastery (Salwan Mohamed, 2025).pdf>)
-- [Mastering Kubernetes Taints and Tolerations (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes Taints and Tolerations (Salwan Mohamed, 2025).pdf>)
+- [Mastering Kubernetes with Taints and Tolerations (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes with Taints and Tolerations (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Pod Guide (Salwan Mohamed, 2025).pdf>)
 - [The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025)](<Slides/The Complete Kubernetes Service Mastery Guide (Salwan Mohamed, 2025).pdf>)
 - [Master Kubernetes Networking (Mohana Srinivasan, 2025)](<Slides/Master Kubernetes Networking (Mohana Srinivasan, 2025).pdf>)
@@ -51,8 +53,10 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024).pdf>)
 
 ## ⚙️ Tools
-- Helm
-  - [DevOps Helm Charts (Ping Identity, 2025)](<Tools/DevOps Helm Charts (Ping Identity, 2025).pdf>)
+- [Helm](https://helm.sh/)
+  - [DevOps Helm Charts (Ping Identity, 2025)](<Tools/Helm/DevOps Helm Charts (Ping Identity, 2025).pdf>)
+- [Kustomize](https://kustomize.io/)
+  - [Introduction to Kustomize (Vincent Van Dam, 2019)](<Tools/Kustomize/Introduction to Kustomize (Vincent Van Dam, 2019).pdf>)
 
 ## 📚 Exam Prep
 - [Certified Kubernetes Administrator (CKA) Exam Curriculum (2025)](<Exam Prep/Certified Kubernetes Administrator (CKA) Exam Curriculum (2025).pdf>)
@@ -77,6 +81,8 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ## 🎓 Theses
 - [Generative AI-enhanced diagnosis of Kubernetes resources using K8sGPT and Ollama (Muna Mussa, 2025)](<Theses/Generative AI-enhanced diagnosis of Kubernetes resources using K8sGPT and Ollama (Muna Mussa, 2025).pdf>)
+- [Evaluate Kubernetes for Stateful and highly available enterprise database solutions (Anurag Sharma, 2023)](<Theses/Evaluate Kubernetes for Stateful and highly available enterprise database solutions (Anurag Sharma, 2023).pdf>)
+- [Resilient System deployment using Kubernetes (Lenard Jensen, 2020)](<Theses/Resilient System deployment using Kubernetes (Lenard Jensen, 2020).pdf>)
 
 ## 📘 References
 - [Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025)](<References/Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025).pdf>)

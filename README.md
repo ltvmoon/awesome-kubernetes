@@ -16,6 +16,7 @@ This repository is here to help you, whether you're just starting out, preparing
 
 ---
 ## 🎞️ Slides
+- [Concise Kubernetes (Avinash Tietler, 2025)](<Slides/Concise Kubernetes (Avinash Tietler, 2025).pdf>)
 - [Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025)](<Slides/Mastering Kubernetes with Multi-Container Design Patterns (Salwan Mohamed, 2025).pdf>)
 - [Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025)](<Slides/Master ConfigMaps and Secrets in Kubernetes (Salwan Mohamed, 2025).pdf>)
 - [Kubernetes HPA Mastery (Salwan Mohamed, 2025)](<Slides/Kubernetes HPA Mastery (Salwan Mohamed, 2025).pdf>)
@@ -47,7 +48,7 @@ This repository is here to help you, whether you're just starting out, preparing
 - [Kubernetes Interview Questions and Answers (Busam Rajesh Vardhan, 2021)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Busam Rajesh Vardhan, 2021).pdf>)
 
 ## 🛠️ Troubleshooting Guides
-- [50 Kubernetes Errors & Solutions (DevOps Shack, 2025)](<Troubleshooting Guides/50 Kubernetes Errors & Solutions (DevOps Shack, 2025).pdf>)
+- [Kubernetes Errors and Solutions (DevOps Shack, 2025)](<Troubleshooting Guides/Kubernetes Errors and Solutions (DevOps Shack, 2025).pdf>)
 - [Kubernetes Troubleshooting Guides (Swapna Adhav, 2025)](<Troubleshooting Guides/Kubernetes Troubleshooting Guides (Swapna Adhav, 2025).pdf>)
 - [Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 30 (Prasad Suman Mohan, 2025).pdf>)
 - [Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024)](<Troubleshooting Guides/Kubernetes Real-Time Troubleshooting Guides - Part 11 (Prasad Suman Mohan, 2024).pdf>)

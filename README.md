@@ -38,6 +38,8 @@ If you find this repository useful, consider sharing your favorite resources, im
 ---
 
 ## 💻 Sample Projects
+- [Kubernetes Examples (Kubernetes, 2025)](https://github.com/kubernetes/examples)
+- [Sample Applications for Google Kubernetes Engine (GKE) (Google Cloud Platform, 2025)](https://github.com/GoogleCloudPlatform/kubernetes-engine-samples)
 - [End-to-End-Kubernetes-Three-Tier-DevSecOps-Project (AmanPathak, 2025)](https://github.com/AmanPathak-DevOps/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project)
 - [Fast Kubernetes (Ömer Berat Sezer, 2025)](https://github.com/omerbsezer/Fast-Kubernetes)
 - [Kubernetes The Hard Way (Kelsey Hightower, 2025)](https://github.com/kelseyhightower/kubernetes-the-hard-way)
@@ -46,6 +48,7 @@ If you find this repository useful, consider sharing your favorite resources, im
 - [Deployment of Super Mario on Kubernetes using Terraform (Aakib khan, 2024)](https://github.com/Aakibgithuber/Deployment-of-super-Mario-on-Kubernetes-using-terraform)
 - [Deploy-Netflix-Clone-on-Kubernetes (Aakib khan, 2023)](https://github.com/Aakibgithuber/Deploy-Netflix-Clone-on-Kubernetes)
 - [Kubernetes Sample Apps (Digital Ocean, 2022)](https://github.com/digitalocean/kubernetes-sample-apps)
+- [Full-Stack Examples for Kubernetes (2020)](https://github.com/nirajsonawane/kubernetes-full-stack-example)
 - [Kubernetes Canary Deployment Example (Jeferson Fernando, 2018)](https://github.com/badtuxx/k8s-canary-deploy-example)
 
 ---

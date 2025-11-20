@@ -153,6 +153,7 @@ Explore a rich set of materials, including:
 - [Developing Self-adaptive Microservices (2024)](<Research and Theses/Papers/Developing self-adaptive microservices.pdf>)
 - [Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes (2024)](<Research and Theses/Papers/Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes.pdf>)
 - [Predicting Resource Consumption of Kubernetes Container Systems Using Resource Models (2023)](<Research and Theses/Papers/Predicting Resource Consumption of Kubernetes Container Systems using Resource Models.pdf>)
+- [Kubernetes distributions for the edge - serverless performance evaluation (2022)](<Research and Theses/Papers/Kubernetes distributions for the edge - serverless performance evaluation.pdf>)
 - [A Formal Model of the Kubernetes Container Framework (2020)](<Research and Theses/Papers/A Formal Model of the Kubernetes Container Framework.pdf>)
 
 ### Theses

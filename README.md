@@ -145,6 +145,7 @@ Explore a rich set of materials, including:
 - [Sharpening Kubernetes Audit Logs with Context Awareness (2025)](<Research and Theses/Papers/Sharpening Kubernetes Audit Logs with Context Awareness.pdf>)
 - [Simplifying Root Cause Analysis in Kubernetes with StateGraph and LLM (2025)](<Research and Theses/Papers/Simplifying Root Cause Analysis in Kubernetes  with StateGraph and LLM.pdf>)
 - [Enhancing Kubernetes Automated Scheduling with Deep Learning and Reinforcement Techniques for Large-Scale Cloud Optimization (2024)](<Research and Theses/Papers/Enhancing Kubernetes Automated Scheduling with Deep  Learning and Reinforcement Techniques for Large-Scale Cloud Computing Optimization.pdf>)
+- [Assessing Kubernetes Distributions - A Comparative Study (2024)](<Research and Theses/Papers/Assessing Kubernetes Distributions - A Comparative Study.pdf>)
 - [A Comparative Study on Enhancing Container Management with Kubernetes (2024)](<Research and Theses/Papers/A Comparative Study on Enhancing Container Management with Kubernetes.pdf>)
 - [Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review (2024)](<Research and Theses/Papers/Kubernetes Application Performance Benchmarking on Heterogeneous CPU Architecture - An Experimental Review.pdf>)
 - [Kubernetes Deployment Options for On-Prem Clusters (2024)](<Research and Theses/Papers/Kubernetes Deployment Options for On-Prem Clusters.pdf>)

@@ -93,6 +93,7 @@ Explore a rich set of materials, including:
 ---
 
 ## ❓ Interview Questions & Answers
+- [Kubernetes Interview Questions and Answers (Nensi Ravaliya, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Nensi Ravaliya, 2025).pdf>)
 - [Kubernetes Interview Questions (Akhilesh Dhoke, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (Akhilesh Dhoke, 2025).pdf>)
 - [Kubernetes Interview Questions (InterviewBit, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions (InterviewBit, 2025).pdf>)
 - [Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025)](<Interview Questions and Answers/Kubernetes Interview Questions and Answers (Joshua Veeraiah, 2025).pdf>)

@@ -127,6 +127,7 @@ Explore a rich set of materials, including:
 
 ## 📖 Research & Theses
 ### Papers
+- [Kubernetes in Action_ Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](<Research and Theses/Papers/Kubernetes in Action_ Exploring the Performance of Kubernetes Distributions in the Cloud.pdf>)
 - [Improving Scalability, Energy Efficiency, and Cost-Effectiveness in Kubernetes Clusters Using a Nonlinear Regression-Based Predictive Replica Model and ORLE Algorithm (2025)](<Research and Theses/Papers/Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm.pdf>)
 - [Management of Autoscaling Serverless Functions in Edge Computing via Q-Learning (2025)](<Research and Theses/Papers/Management of autoscaling serverless functions in edge computing via Q-Learning.pdf>)
 - [Towards Resource-Efficient Reactive and Proactive Auto-Scaling for Microservice Architectures (2025)](<Research and Theses/Papers/Towards resource-efficient reactive and proactive auto-scaling for microservice architectures.pdf>)
@@ -153,6 +154,7 @@ Explore a rich set of materials, including:
 - [Developing Self-adaptive Microservices (2024)](<Research and Theses/Papers/Developing self-adaptive microservices.pdf>)
 - [Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes (2024)](<Research and Theses/Papers/Development and Design of an Intelligent Financial Asset Management System Based on Big Data Analysis and Kubernetes.pdf>)
 - [Predicting Resource Consumption of Kubernetes Container Systems Using Resource Models (2023)](<Research and Theses/Papers/Predicting Resource Consumption of Kubernetes Container Systems using Resource Models.pdf>)
+- [Lightweight Kubernetes Distributions - A Performance Comparison of MicroK8s, k3s, k0s, and Microshift (2023)](<Research and Theses/Papers/Lightweight Kubernetes Distributions - A Performance Comparison of MicroK8s, k3s, k0s, and Microshift.pdf>)
 - [Kubernetes distributions for the edge - serverless performance evaluation (2022)](<Research and Theses/Papers/Kubernetes distributions for the edge - serverless performance evaluation.pdf>)
 - [A Formal Model of the Kubernetes Container Framework (2020)](<Research and Theses/Papers/A Formal Model of the Kubernetes Container Framework.pdf>)
 

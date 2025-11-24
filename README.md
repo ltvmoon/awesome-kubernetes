@@ -128,14 +128,13 @@ Explore a rich set of materials, including:
 
 ## 📖 Research & Theses
 ### Papers
-- [Kubernetes in Action_ Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](<Research and Theses/Papers/Kubernetes in Action_ Exploring the Performance of Kubernetes Distributions in the Cloud.pdf>)
 - [Improving Scalability, Energy Efficiency, and Cost-Effectiveness in Kubernetes Clusters Using a Nonlinear Regression-Based Predictive Replica Model and ORLE Algorithm (2025)](<Research and Theses/Papers/Improving scalability, energy efficiency, and cost-effectiveness in Kubernetes clusters using a nonlinear regression-based predictive replica model and ORLE algorithm.pdf>)
 - [Management of Autoscaling Serverless Functions in Edge Computing via Q-Learning (2025)](<Research and Theses/Papers/Management of autoscaling serverless functions in edge computing via Q-Learning.pdf>)
 - [Towards Resource-Efficient Reactive and Proactive Auto-Scaling for Microservice Architectures (2025)](<Research and Theses/Papers/Towards resource-efficient reactive and proactive auto-scaling for microservice architectures.pdf>)
 - [Trust Your Local Scaler: A Continuous, Decentralized Approach to Autoscaling (2025)](<Research and Theses/Papers/Trust your local scaler_ A continuous, decentralized approach to autoscaling.pdf>)
 - [Evaluating Kubernetes Distributions: Insights from Stress Testing Scenarios (2025)](https://ieeexplore.ieee.org/document/10885637/)
-- [Gwydion: Efficient Auto-Scaling for Complex Containerized Applications in Kubernetes through Reinforcement Learning (2025)](<Research and Theses/Papers/Gwydion Efficient auto-scaling for complex containerized applications in Kubernetes through Reinforcement Learning.pdf>)
-- [Kubernetes in Action: Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70000)
+- [Gwydion: Efficient Auto-Scaling for Complex Containerized Applications in Kubernetes through Reinforcement Learning (2025)](<Research and Theses/Papers/Gwydion Efficient auto-scaling for complex containerized applications in  Kubernetes through Reinforcement Learning.pdf>)
+- [Kubernetes in Action: Exploring the Performance of Kubernetes Distributions in the Cloud (2025)](<Research and Theses/Papers/Kubernetes in Action - Exploring the Performance of Kubernetes Distributions in the Cloud.pdf>)
 - [Dynamic Load Balancing in Kubernetes Environments with Kubernetes Scheduling Extension (KSE) (2025)](https://onlinelibrary.wiley.com/doi/10.1002/cpe.8344)
 - [AI-Driven Kubernetes Orchestration Utilizing Intelligent Agents for Automated Cluster Management and Optimization (2025)](<Research and Theses/Papers/AI-Driven Kubernetes Orchestration Utilizing Intelligent Agents for Automated Cluster Management and Optimization.pdf>)
 - [Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing: Performance and Resource Efficiency (2025)](<Research and Theses/Papers/Comparative Analysis of Lightweight Kubernetes Distributions for Edge Computing - Performance and Resource Efficiency.pdf>)

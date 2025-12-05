@@ -70,13 +70,13 @@ Explore a rich set of materials, including:
 ### Argo CD
 - [ArgoCD Example Apps (Argo Project, 2025)](https://github.com/argoproj/argocd-example-apps)
 - [Awesome Argo (Akuity, 2025)](https://github.com/akuity/awesome-argo)
-- [Argo Rollouts Demo Application (Argo Project, 2025)](https://github.com/argoproj/rollouts-demo)
 - [ArgoCD In One Shot (Shubham Londhe, 2025)](https://github.com/LondheShubham153/argocd-in-one-shot)
 - [ArgoCD Demos (Shubham Londhe, 2025)](https://github.com/LondheShubham153/argocd-demos)
-- [ArgoCD Kubernetes GitOps Tutorial (Rayan Slim, 2025)](github.com/rslim087a/argocd-kubernetes-gitops-tutorial)
+- [ArgoCD Kubernetes GitOps Tutorial (Rayan Slim, 2025)](https://github.com/rslim087a/argocd-kubernetes-gitops-tutorial)
 - [GitOps with ArgoCD (Barahalikar Siddharth, 2025)](https://github.com/sidd-harth/gitops-argocd)
 - [ArgoCD Tutorial (Mohammad Madanipour, 2024)](https://github.com/devopshobbies/argocd-tutorial)
 - [ArgoCD in Practice (Packt, 2024)](https://github.com/PacktPublishing/ArgoCD-in-Practice)
+- [Argo Rollouts Demo Application (Argo Project, 2023)](https://github.com/argoproj/rollouts-demo)
 - [ArgoCD Examples (Brad, 2022)](https://github.com/devopsjourney1/argo-examples)
 
 ### Kustomize

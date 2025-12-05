@@ -141,6 +141,9 @@ Explore a rich set of materials, including:
 - [GitOps Cookbook: Kubernetes Automation in Practice (Alex Soto Bueno, Natale Vinto, 2022)](<https://www.oreilly.com/library/view/gitops-cookbook/9781492097464/>)
 - [Implement GitOps at Scale with Argo CD (Codefresh, 2021)](https://codefresh.io/ebooks/implement-gitops-scale-today/)
 
+#### Papers
+- [Argo CD Secrets (Nicolas Iooss, 2025).pdf](<Tools/ArgoCD/Argo CD Secrets (Nicolas Iooss, 2025).pdf>)
+
 #### Theses
 - [GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021)](<Tools/ArgoCD/GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021).pdf>)
 - [GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021)](<Tools/ArgoCD/GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf>)

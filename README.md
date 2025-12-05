@@ -67,9 +67,24 @@ Explore a rich set of materials, including:
 ---
 
 ## 💻 Code Examples
-- [Food Delivery Microservices (Mehdi Hadeli, 2025)](https://github.com/mehdihadeli/food-delivery-microservices)
+### Argo CD
 - [ArgoCD Example Apps (Argo Project, 2025)](https://github.com/argoproj/argocd-example-apps)
+- [Awesome Argo (Akuity, 2025)](https://github.com/akuity/awesome-argo)
 - [Argo Rollouts Demo Application (Argo Project, 2025)](https://github.com/argoproj/rollouts-demo)
+- [ArgoCD In One Shot (Shubham Londhe, 2025)](https://github.com/LondheShubham153/argocd-in-one-shot)
+- [ArgoCD Demos (Shubham Londhe, 2025)](https://github.com/LondheShubham153/argocd-demos)
+- [ArgoCD Kubernetes GitOps Tutorial (Rayan Slim, 2025)](github.com/rslim087a/argocd-kubernetes-gitops-tutorial)
+- [GitOps with ArgoCD (Barahalikar Siddharth, 2025)](https://github.com/sidd-harth/gitops-argocd)
+- [ArgoCD Tutorial (Mohammad Madanipour, 2024)](https://github.com/devopshobbies/argocd-tutorial)
+- [ArgoCD in Practice (Packt, 2024)](https://github.com/PacktPublishing/ArgoCD-in-Practice)
+- [ArgoCD Examples (Brad, 2022)](https://github.com/devopsjourney1/argo-examples)
+
+### Kustomize
+- [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
+
+### Kubernetes
+- [Kubernetes Complete Hands‑On Guides](https://github.com/anveshmuppeda/kubernetes)
+- [Food Delivery Microservices (Mehdi Hadeli, 2025)](https://github.com/mehdihadeli/food-delivery-microservices)
 - [Azure Marketplace Kubernetes Apps (Microsoft Azure, 2025)](https://github.com/Azure-Samples/kubernetes-offer-samples)
 - [Kubernetes Hands-On Projects for Learning (DevOpsCube, 2025)](https://github.com/techiescamp/kubernetes-projects)
 - [Kubernetes Examples (Kubernetes, 2025)](https://github.com/kubernetes/examples)
@@ -80,13 +95,11 @@ Explore a rich set of materials, including:
 - [Wordsmith (Docker Samples, 2024)](https://github.com/dockersamples/wordsmith)
 - [Example Voting App (Docker Samples, 2024)](https://github.com/dockersamples/example-voting-app)
 - [Deployment of Super Mario on Kubernetes using Terraform (Aakib khan, 2024)](https://github.com/Aakibgithuber/Deployment-of-super-Mario-on-Kubernetes-using-terraform)
-- [Argo CD in Practice (Packt, 2024](https://github.com/PacktPublishing/ArgoCD-in-Practice)
 - [YouTube Clone Application (uniquesreedhar, 2024)](https://github.com/uniquesreedhar/Youtube-clone-app)
 - [Deploy-Netflix-Clone-on-Kubernetes (Aakib khan, 2023)](https://github.com/Aakibgithuber/Deploy-Netflix-Clone-on-Kubernetes)
 - [Robot Shop (Instana, 2023)](https://github.com/instana/robot-shop)
 - [Kubernetes Sample Apps (Digital Ocean, 2022)](https://github.com/digitalocean/kubernetes-sample-apps)
 - [Full-Stack Examples for Kubernetes (2020)](https://github.com/nirajsonawane/kubernetes-full-stack-example)
-- [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 - [Microservices Chat (Python Microservices, 2019)](https://github.com/python-microservices/microservices-chat)
 - [Kubernetes Canary Deployment Example (Jeferson Fernando, 2018)](https://github.com/badtuxx/k8s-canary-deploy-example)
 
@@ -114,6 +127,21 @@ Explore a rich set of materials, including:
 ---
 
 ## ⚙️ Tools
+
+### Argo CD
+#### Slides
+- [ArgoCD (KodeKloud, 2022)](<Tools/ArgoCD/ArgoCD (KodeKloud, 2022).pdf>)
+- [ArgoCD (Muhammad Abusaa, 2022)](<Tools/ArgoCD/ArgoCD (Muhammad Abusaa, 2022).pdf>)
+- [GitOps Continuous Delivery with Argo and Codefresh (Brandon Phillips, 2020)](<Tools/ArgoCD/GitOps Continuous Delivery with Argo and Codefresh (Brandon Phillips, 2020).pdf>)
+
+#### Documentation
+- [Argo CD: Up and Running (Andrew Block, Christian Hernandez, 2025)](https://www.oreilly.com/library/view/argo-cd-up/9781098141998/)
+- [Argo CD in Practice (Liviu Costea, Spiros Economakis, 2022)](https://www.oreilly.com/library/view/argo-cd-in/9781803233321/)
+- [GitOps Cookbook: Kubernetes Automation in Practice (Alex Soto Bueno, Natale Vinto, 2022)](<https://www.oreilly.com/library/view/gitops-cookbook/9781492097464/>)
+
+#### Theses
+- [GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021)](<Tools/ArgoCD/GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021).pdf>)
+- [GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf](<Tools/ArgoCD/GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf>)
 
 ### Helm
 - [Helm Official Site](https://helm.sh/)

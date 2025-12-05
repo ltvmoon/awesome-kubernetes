@@ -141,7 +141,7 @@ Explore a rich set of materials, including:
 
 #### Theses
 - [GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021)](<Tools/ArgoCD/GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021).pdf>)
-- [GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf](<Tools/ArgoCD/GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf>)
+- [GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021)](<Tools/ArgoCD/GitOps Tool Argo CD in Service Management (Korhonen Matti, 2021).pdf>)
 
 ### Helm
 - [Helm Official Site](https://helm.sh/)

@@ -137,13 +137,16 @@ Explore a rich set of materials, including:
 
 #### Documentation
 - [Argo CD: Up and Running (Andrew Block, Christian Hernandez, 2025)](https://www.oreilly.com/library/view/argo-cd-up/9781098141998/) [[Free download available]](https://landing.akuity.io/resources/argo-cd-up-and-running)
-- [Argo CD End User Threat Model (ControlPlane & CNCF, 2023)](<Tools/ArgoCD/Argo CD End User Threat Model (ControlPlane & CNCF, 2023).pdf>)
+- [GitOps Best Practices (Akuity, 2025)](https://landing.akuity.io/gitops-best-practices-whitepaper)
+- [Argo CD End User Threat Model (controlplane & CNCF, 2023)](<Tools/ArgoCD/Argo CD End User Threat Model (controlplane & CNCF, 2023).pdf>)
 - [Argo CD in Practice (Liviu Costea, Spiros Economakis, 2022)](https://www.oreilly.com/library/view/argo-cd-in/9781803233321/)
 - [GitOps Cookbook: Kubernetes Automation in Practice (Alex Soto Bueno, Natale Vinto, 2022)](<https://www.oreilly.com/library/view/gitops-cookbook/9781492097464/>)
 - [Implement GitOps at Scale with Argo CD (Codefresh, 2021)](https://codefresh.io/ebooks/implement-gitops-scale-today/)
 
 #### Papers
 - [Argo CD Secrets (Nicolas Iooss, 2025)](<Tools/ArgoCD/Argo CD Secrets (Nicolas Iooss, 2025).pdf>)
+- [Comparative Analysis of GitOps Tools and Frameworks (Ajayi Abiola Samuel, 2025)](<Tools/ArgoCD/Comparative Analysis of GitOps Tools and Frameworks (Ajayi Abiola Samuel, 2025).pdf>)
+- [Declarative Operations: GitOps in Large-Scale Production Systems (Hitesh Allam, 2023)](<Tools/ArgoCD/Declarative Operations - GitOps in Large-Scale Production Systems (Hitesh Allam, 2023).pdf>)
 
 #### Theses
 - [GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021)](<Tools/ArgoCD/GitOps and ArgoCD - Continuous Deployment and Maintenance of a Full Stack Application in a Hybrid Cloud Kubernetes Environment (Matteo D’AMORE, 2021).pdf>)

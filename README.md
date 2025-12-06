@@ -76,7 +76,9 @@ Explore a rich set of materials, including:
 - [GitOps with ArgoCD (Barahalikar Siddharth, 2025)](https://github.com/sidd-harth/gitops-argocd)
 - [ArgoCD Tutorial (Mohammad Madanipour, 2024)](https://github.com/devopshobbies/argocd-tutorial)
 - [ArgoCD in Practice (Packt, 2024)](https://github.com/PacktPublishing/ArgoCD-in-Practice)
-- [Argo Rollouts Demo Application (Argo Project, 2023)](https://github.com/argoproj/rollouts-demo)
+- [ArgoCD Hub Spoke Demo (Abhishek Veeramalla, 2023)](https://github.com/iam-veeramalla/argocd-hub-spoke-demo)
+- [Argo Rollouts Demo (Argo Project, 2023)](https://github.com/argoproj/rollouts-demo)
+- [K8s Crossplane ArgoCD (Abhishek Veeramalla, 2023)](https://github.com/iam-veeramalla/k8s-crossplane-argocd)
 - [ArgoCD Examples (Brad, 2022)](https://github.com/devopsjourney1/argo-examples)
 
 ### Kustomize

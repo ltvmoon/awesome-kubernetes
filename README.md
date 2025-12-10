@@ -81,6 +81,10 @@ Explore a rich set of materials, including:
 - [K8s Crossplane ArgoCD (Abhishek Veeramalla, 2023)](https://github.com/iam-veeramalla/k8s-crossplane-argocd)
 - [ArgoCD Examples (Brad, 2022)](https://github.com/devopsjourney1/argo-examples)
 
+### Docker
+- [Awesome Docker Compose Examples (Haxxnet, 2025)](https://github.com/Haxxnet/Compose-Examples)
+- [Awesome Docker Compose (Docker, 2024)](https://github.com/docker/awesome-compose)
+
 ### Kustomize
 - [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 
@@ -129,6 +133,25 @@ Explore a rich set of materials, including:
 ---
 
 ## ⚙️ Tools
+
+### Docker
+#### Slides
+- [Introduction To Docker (University of Maryland, 2021)](<Tools/Docker/Introduction To Docker (University of Maryland, 2021).pdf>)
+- [Docker (Martin Meyer, 2021)](<Tools/Docker/Docker (Martin Meyer, 2021).pdf>)
+- [Docker Tutorial (Anthony Baire, 2020)](<Tools/Docker/Docker Tutorial (Anthony Baire, 2020).pdf>)
+- [Introduction to Docker & Docker Swarm (Vikram, 2020)](<Tools/Docker/Introduction to Docker & Docker Swarm (Vikram, 2020).pdf>)
+- [Docker for Beginners (Mumshad Mannambeth, 2019)](<Tools/Docker/Docker for Beginners (Mumshad Mannambeth, 2019).pdf>)
+
+#### Documentation
+- [Docker: Up & Running (Sean P. Kane, Karl Matthias, 2023)](https://www.oreilly.com/library/view/docker-up/9781098131814/)
+- [Docker Deep Dive (Nigel Poulton, 2020)](https://www.oreilly.com/library/view/docker-deep-dive/9781800565135/)
+- [Learn Docker in a Month of Lunches (Elton Stoneman, 2020)](https://www.oreilly.com/library/view/learn-docker-in/9781617297052/)
+- [Docker in Action (Jeff Nickoloff, Stephen Kuenzli, 2019)](https://www.manning.com/books/docker-in-action-second-edition)
+- [The Docker Book (James Turnbull, 2014)](https://www.oreilly.com/library/view/the-docker-book/9780988820203/)
+
+#### References
+- [A Curated List of Awesome Docker Security Resources (Muhammad Yuga Nugraha, 2025)](https://github.com/myugan/awesome-docker-security)
+- [A Curated List of Docker Resources and Projects (Julien Bisconti, 2025)](https://github.com/veggiemonk/awesome-docker)
 
 ### Argo CD
 #### Slides
@@ -208,7 +231,7 @@ Explore a rich set of materials, including:
 ## 📘 References
 - [Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025)](<References/Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025).pdf>)
 - [Cloud Native 2024 - Approaching a Decade of Code, Cloud, and Change (2025)](<References/Cloud Native 2024 - Approaching a Decade of Code, Cloud, and Change (2025).pdf>)
-
+- [A Curated List for Awesome Kubernetes Sources (Ramit Surana, 2025)](https://github.com/ramitsurana/awesome-kubernetes)
 ---
 
 ## 🚀 Contribute & Collaborate

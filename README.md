@@ -83,6 +83,8 @@ Explore a rich set of materials, including:
 
 ### Docker
 - [Awesome Docker Compose Examples (Haxxnet, 2025)](https://github.com/Haxxnet/Compose-Examples)
+- [Dockerfiles (vimagick, 2025)](https://github.com/vimagick/dockerfiles)
+- [Dockerfiles (Hari Sekhon, 2025)](https://github.com/HariSekhon/Dockerfiles)
 - [Awesome Docker Compose (Docker, 2024)](https://github.com/docker/awesome-compose)
 - [Dockerfiles (Jess Frazelle, 2021)](https://github.com/jessfraz/dockerfiles)
 

@@ -146,11 +146,12 @@ Explore a rich set of materials, including:
 - [Docker for Beginners (Mumshad Mannambeth, 2019)](<Tools/Docker/Docker for Beginners (Mumshad Mannambeth, 2019).pdf>)
 
 #### Documentation
-- [Docker: Up & Running (Sean P. Kane, Karl Matthias, 2023)](https://www.oreilly.com/library/view/docker-up/9781098131814/)
-- [Docker Deep Dive (Nigel Poulton, 2020)](https://www.oreilly.com/library/view/docker-deep-dive/9781800565135/)
-- [Learn Docker in a Month of Lunches (Elton Stoneman, 2020)](https://www.oreilly.com/library/view/learn-docker-in/9781617297052/)
-- [Docker in Action (Jeff Nickoloff, Stephen Kuenzli, 2019)](https://www.manning.com/books/docker-in-action-second-edition)
-- [The Docker Book (James Turnbull, 2014)](https://www.oreilly.com/library/view/the-docker-book/9780988820203/)
+- [Docker Deep Dive, Fifth Edition (Nigel Poulton, 2025)](https://www.packtpub.com/en-us/product/docker-deep-dive-9781806024025)
+- [Learn Docker in a Month of Lunches, Second Edition (Elton Stoneman, 2025)](https://www.manning.com/books/learn-docker-in-a-month-of-lunches-second-edition)
+- [Docker: Up & Running, Third Edition (Sean P. Kane, Karl Matthias, 2023)](https://www.oreilly.com/library/view/docker-up/9781098131814)
+- [Docker in Practice, Second Edition (Ian Miell, Aiden Hobson Sayers, 2019)](https://www.manning.com/books/docker-in-practice-second-edition)
+- [Docker in Action, Second Edition (Jeff Nickoloff, Stephen Kuenzli, 2019)](https://www.manning.com/books/docker-in-action-second-edition)
+- [Docker Cookbook, Second Edition (Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare, 2018)](https://www.packtpub.com/free-ebook/docker-cookbook-second-edition/9781788626866)
 
 #### References
 - [A Curated List of Awesome Docker Security Resources (Muhammad Yuga Nugraha, 2025)](https://github.com/myugan/awesome-docker-security)

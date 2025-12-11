@@ -84,12 +84,13 @@ Explore a rich set of materials, including:
 ### Docker
 - [Awesome Docker Compose Examples (Haxxnet, 2025)](https://github.com/Haxxnet/Compose-Examples)
 - [Awesome Docker Compose (Docker, 2024)](https://github.com/docker/awesome-compose)
+- [Dockerfiles (Jess Frazelle, 2021)](https://github.com/jessfraz/dockerfiles)
 
 ### Kustomize
 - [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 
 ### Kubernetes
-- [Kubernetes Complete Hands‑On Guides](https://github.com/anveshmuppeda/kubernetes)
+- [Kubernetes Complete Hands‑On Guides (Anvesh Muppeda, 2025)](https://github.com/anveshmuppeda/kubernetes)
 - [Food Delivery Microservices (Mehdi Hadeli, 2025)](https://github.com/mehdihadeli/food-delivery-microservices)
 - [Azure Marketplace Kubernetes Apps (Microsoft Azure, 2025)](https://github.com/Azure-Samples/kubernetes-offer-samples)
 - [Kubernetes Hands-On Projects for Learning (DevOpsCube, 2025)](https://github.com/techiescamp/kubernetes-projects)
@@ -136,7 +137,7 @@ Explore a rich set of materials, including:
 
 ### Docker
 #### Slides
-- [Introduction To Docker (University of Maryland, 2021)](<Tools/Docker/Introduction To Docker (University of Maryland, 2021).pdf>)
+- [Introduction to Docker (University of Maryland, 2021)](<Tools/Docker/Introduction to Docker (University of Maryland, 2021).pdf>)
 - [Docker (Martin Meyer, 2021)](<Tools/Docker/Docker (Martin Meyer, 2021).pdf>)
 - [Docker Tutorial (Anthony Baire, 2020)](<Tools/Docker/Docker Tutorial (Anthony Baire, 2020).pdf>)
 - [Introduction to Docker & Docker Swarm (Vikram, 2020)](<Tools/Docker/Introduction to Docker & Docker Swarm (Vikram, 2020).pdf>)

@@ -92,6 +92,7 @@ Explore a rich set of materials, including:
 - [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 
 ### Kubernetes
+- [Online Boutique (GoogleCloudPlatform, 2025)](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Kubernetes Complete Hands‑On Guides (Anvesh Muppeda, 2025)](https://github.com/anveshmuppeda/kubernetes)
 - [Food Delivery Microservices (Mehdi Hadeli, 2025)](https://github.com/mehdihadeli/food-delivery-microservices)
 - [Azure Marketplace Kubernetes Apps (Microsoft Azure, 2025)](https://github.com/Azure-Samples/kubernetes-offer-samples)
@@ -154,8 +155,9 @@ Explore a rich set of materials, including:
 - [Docker Cookbook, Second Edition (Ken Cochrane, Jeeva S. Chelladhurai, Neependra K Khare, 2018)](https://www.packtpub.com/free-ebook/docker-cookbook-second-edition/9781788626866)
 
 #### References
-- [A Curated List of Awesome Docker Security Resources (Muhammad Yuga Nugraha, 2025)](https://github.com/myugan/awesome-docker-security)
-- [A Curated List of Docker Resources and Projects (Julien Bisconti, 2025)](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Docker Security (Muhammad Yuga Nugraha, 2025)](https://github.com/myugan/awesome-docker-security)
+- [Awesome Docker (Julien Bisconti, 2025)](https://github.com/veggiemonk/awesome-docker)
+- [Awesome Swarm (Bret Fisher, 2025)](https://github.com/BretFisher/awesome-swarm)
 
 ### Argo CD
 #### Slides
@@ -233,9 +235,8 @@ Explore a rich set of materials, including:
 ---
 
 ## 📘 References
-- [Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025)](<References/Real-World Federation of Autonomous Kubernetes in an Interconnected Continuum (2025).pdf>)
-- [Cloud Native 2024 - Approaching a Decade of Code, Cloud, and Change (2025)](<References/Cloud Native 2024 - Approaching a Decade of Code, Cloud, and Change (2025).pdf>)
-- [A Curated List for Awesome Kubernetes Sources (Ramit Surana, 2025)](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Kubernetes (Ramit Surana, 2025)](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Kubernetes (Nubenetes, 2024)](https://github.com/nubenetes/awesome-kubernetes)
 ---
 
 ## 🚀 Contribute & Collaborate

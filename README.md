@@ -68,6 +68,7 @@ Explore a rich set of materials, including:
 
 ## 💻 Code Examples
 ### Argo CD
+- [End-to-End GitOps CI/CD Pipeline on AWS (Sherif Shaban, 2025)](https://github.com/Sherif127/CloudDevOpsProject)
 - [ArgoCD Example Apps (Argo Project, 2025)](https://github.com/argoproj/argocd-example-apps)
 - [Awesome Argo (Akuity, 2025)](https://github.com/akuity/awesome-argo)
 - [ArgoCD In One Shot (Shubham Londhe, 2025)](https://github.com/LondheShubham153/argocd-in-one-shot)

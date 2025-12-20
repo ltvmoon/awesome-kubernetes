@@ -236,7 +236,10 @@ Explore a rich set of materials, including:
 ---
 
 ## 📘 References
+- [Awesome Open Source K8s And Container Tools (João Vilaça, 2025)](https://github.com/vilaca/awesome-k8s-tools)
 - [Awesome Kubernetes (Ramit Surana, 2025)](https://github.com/ramitsurana/awesome-kubernetes)
+- [Awesome Kubernetes (K8s) Security (Magno Logan, 2025)](https://github.com/magnologan/awesome-k8s-security)
+- [Awesome Kubernetes Resources (Tom Huang, 2025)](https://github.com/tomhuang12/awesome-k8s-resources)
 - [Awesome Kubernetes (Nubenetes, 2024)](https://github.com/nubenetes/awesome-kubernetes)
 ---
 

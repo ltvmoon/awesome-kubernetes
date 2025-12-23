@@ -93,6 +93,7 @@ Explore a rich set of materials, including:
 - [Kustomize Examples (viadee, 2019)](https://github.com/viadee/kustomize-examples)
 
 ### Kubernetes
+- [Enterprise Azure Landing Zone – DevOps & Cloud Architecture (Hlali Mohamed Amine, 2025)](https://github.com/HlaliMedAmine/Enterprise-Azure-Landing-Zone-DevOps)
 - [Online Boutique (GoogleCloudPlatform, 2025)](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Kubernetes Complete Hands‑On Guides (Anvesh Muppeda, 2025)](https://github.com/anveshmuppeda/kubernetes)
 - [Food Delivery Microservices (Mehdi Hadeli, 2025)](https://github.com/mehdihadeli/food-delivery-microservices)
